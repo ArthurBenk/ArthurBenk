@@ -1,53 +1,41 @@
-<h1 align="left">Oi! Meu nome é Arthur👋</h1>
+<img data-importer="image" align="left" height="200" src="https://static.wikia.nocookie.net/animalcrossing/images/f/fb/Bobdance.gif/revision/latest?cb=20200519000210"  />
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h1 data-importer="text" align="left">Hola Amigos!!</h1>
 
 ###
 
-<p align="left">• 🎓Estudante de Informática no 𝙄𝙁𝘾 𝘼𝙧𝙖𝙦𝙪𝙖𝙧𝙞.<br>• 🧠Entusiasta de user Interface<br>• 🎂16 anos.</p>
+<h4 data-importer="text" align="left">Silly game designer and developer<br>still learning :D</h4>
 
 ###
 
-<h2 align="left">Experiência com</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+<div data-importer="music" align="left">
+  <a href="https://open.spotify.com/user/ 316jjw4amubvkdxu6mvt5ixybmf4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%20316jjw4amubvkdxu6mvt5ixybmf4&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
 
-<h2 align="left">Interesses</h2>
+<img data-importer="image" align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTByNXF2czY4MmtpMGthN3VwbWdncHhsZnF1cXVmYW5uY3I4enZ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5KfJVWE1I1pcs/giphy.gif"  />
 
 ###
 
-<p align="left">• 🎮Desenvolvimento de jogos em Game Maker.<br>• 🌐Criação de sites e aplicações web.<br>• 🎨Arte 2D e criação de sprites.</p>
+<img data-importer="image" align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnUzZmZ4emR6b29kMHlzOWUwMndidTNhd3Y3YTd2a3hhcTYzZzBkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zCayyd5bwpSU/giphy.gif"  />
 
 ###
 
-<h2 align="left">Objetivos</h2>
+<h2 data-importer="text" align="left">Experience with</h2>
 
 ###
 
-<p align="left">• 📚Aprofundar meus conhecimentos em programação e desenvolvimento web.<br>• 💼 Contribuir para projetos open source e colaborar com a comunidade.<br>• 🎯 Me tornar um UX/UI Designer no futuro.</p>
-
-###
-
-<div align="left">
-  <img height="200" src="https://images-ext-1.discordapp.net/external/USUmN5Sl-pEbaADncp6dntdZXrAbKagRkcYIQrIcyms/https/66.media.tumblr.com/tumblr_mai2gkygAV1rfjowdo1_500.gif"  />
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
